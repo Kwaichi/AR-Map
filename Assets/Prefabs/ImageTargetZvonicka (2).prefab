@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2985308358937186887
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2989254799861195435}
+  - component: {fileID: 2953432501225645639}
+  m_Layer: 0
+  m_Name: ImageTargetZvonicka (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2989254799861195435
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2985308358937186887}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6.57, y: 5.11, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3378163784514886417}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2953432501225645639
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2985308358937186887}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f8c7feab99e861479c02aee5b54b004, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ActiveControl: 0
+  HorizontalFlip: 0
+  SourceType: 0
+  ImageFileSource:
+    PathType: 1
+    Path: marker F.png
+    Name: marker F
+    Scale: 1
+  TargetDataFileSource:
+    PathType: 1
+    Path: 
+  trackerHasSet: 1
+  tracker: {fileID: 0}
+--- !u!1001 &2984513731874274554
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2989254799861195435}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e0a3c5d046caeec4bb1a4d0d21cb4a31,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.075
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e0a3c5d046caeec4bb1a4d0d21cb4a31,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.349
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e0a3c5d046caeec4bb1a4d0d21cb4a31,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e0a3c5d046caeec4bb1a4d0d21cb4a31,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.7135813
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e0a3c5d046caeec4bb1a4d0d21cb4a31,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.040180337
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e0a3c5d046caeec4bb1a4d0d21cb4a31,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.006159179
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e0a3c5d046caeec4bb1a4d0d21cb4a31,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.69939214
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e0a3c5d046caeec4bb1a4d0d21cb4a31,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e0a3c5d046caeec4bb1a4d0d21cb4a31,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 267.013
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e0a3c5d046caeec4bb1a4d0d21cb4a31,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -65.481995
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e0a3c5d046caeec4bb1a4d0d21cb4a31,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -650.761
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e0a3c5d046caeec4bb1a4d0d21cb4a31,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e0a3c5d046caeec4bb1a4d0d21cb4a31,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e0a3c5d046caeec4bb1a4d0d21cb4a31,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e0a3c5d046caeec4bb1a4d0d21cb4a31,
+        type: 3}
+      propertyPath: m_Name
+      value: Zvonicka
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0a3c5d046caeec4bb1a4d0d21cb4a31, type: 3}
+--- !u!4 &3378163784514886417 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: e0a3c5d046caeec4bb1a4d0d21cb4a31,
+    type: 3}
+  m_PrefabInstance: {fileID: 2984513731874274554}
+  m_PrefabAsset: {fileID: 0}

@@ -1,0 +1,285 @@
+#
+# Wavefront material file
+# Created in RealityCapture
+# Engine version v1.1.1.15122
+#
+
+newmtl tex_u1_v1
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u1_v1.jpg
+
+newmtl tex_u2_v1
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u2_v1.jpg
+
+newmtl tex_u3_v1
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u3_v1.jpg
+
+newmtl tex_u4_v1
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u4_v1.jpg
+
+newmtl tex_u5_v1
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u5_v1.jpg
+
+newmtl tex_u6_v1
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u6_v1.jpg
+
+newmtl tex_u1_v2
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u1_v2.jpg
+
+newmtl tex_u2_v2
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u2_v2.jpg
+
+newmtl tex_u3_v2
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u3_v2.jpg
+
+newmtl tex_u4_v2
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u4_v2.jpg
+
+newmtl tex_u5_v2
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u5_v2.jpg
+
+newmtl tex_u6_v2
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u6_v2.jpg
+
+newmtl tex_u1_v3
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u1_v3.jpg
+
+newmtl tex_u2_v3
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u2_v3.jpg
+
+newmtl tex_u3_v3
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u3_v3.jpg
+
+newmtl tex_u4_v3
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u4_v3.jpg
+
+newmtl tex_u5_v3
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u5_v3.jpg
+
+newmtl tex_u6_v3
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u6_v3.jpg
+
+newmtl tex_u1_v4
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u1_v4.jpg
+
+newmtl tex_u2_v4
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u2_v4.jpg
+
+newmtl tex_u3_v4
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u3_v4.jpg
+
+newmtl tex_u4_v4
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u4_v4.jpg
+
+newmtl tex_u5_v4
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u5_v4.jpg
+
+newmtl tex_u6_v4
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u6_v4.jpg
+
+newmtl tex_u1_v5
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u1_v5.jpg
+
+newmtl tex_u2_v5
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u2_v5.jpg
+
+newmtl tex_u3_v5
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u3_v5.jpg
+
+newmtl tex_u4_v5
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u4_v5.jpg
+
+newmtl tex_u5_v5
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u5_v5.jpg
+
+newmtl tex_u6_v5
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u6_v5.jpg
+
+newmtl tex_u1_v6
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u1_v6.jpg
+
+newmtl tex_u2_v6
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u2_v6.jpg
+
+newmtl tex_u3_v6
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u3_v6.jpg
+
+newmtl tex_u4_v6
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u4_v6.jpg
+
+newmtl tex_u5_v6
+Ka 1 1 1
+Kd 1 1 1
+d 1
+Ns 0
+illum 1
+map_Kd tex_u5_v6.jpg
